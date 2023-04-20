@@ -1,0 +1,72 @@
+header {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #DB0030;
+	color: #EDBB00;
+	padding: 20px;
+	text-align: center;
+}
+
+.contenido {
+    background-color: #004D98;
+    margin: 0%;
+    color: #EDBB00;
+}
+
+main {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding: 20px;
+}
+
+article {
+	border: 1px solid #EDBB00;
+	box-sizing: border-box;
+	margin: 20px;
+	padding: 10px;
+	width: 300px;
+}
+
+article h2 {
+	font-size: 24px;
+	margin: 0;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+article p {
+	font-size: 18px;
+	margin: 10px 0;
+	text-align: justify;
+}
+
+.messi{
+    object-fit: cover;
+    width: 100%;
+    height: 40%;
+    opacity: 0;
+	
+}
+.fcbarcelona{
+    object-fit: cover;
+    width: 100%;
+    height: 40%;
+    opacity: 0;
+}
+
+.boton{
+    text-align: center;
+	margin: 15px;
+}
+
+img{
+    object-fit: cover;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+	margin-top: -25px;
+}
+
+.imagen {
+	margin-top: 50px;
+}
