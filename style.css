@@ -1,5 +1,4 @@
 body {
-	background-color: blue;
 	font-family: Arial, sans-serif;
 	margin: 0;
 	padding: 0;
@@ -24,7 +23,7 @@ main {
 }
 
 article {
-	background-color: blue;
+	background-color: cyan;
 	border: 1px solid black;
 	box-sizing: border-box;
 	margin: 20px;
@@ -44,4 +43,3 @@ article p {
 	margin: 10px 0;
 	text-align: justify;
 }
-
